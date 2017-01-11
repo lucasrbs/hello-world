@@ -3,3 +3,4 @@ Learning how to use Git
 Editando localmente
 Editando remotamente
 Conflito em testes...
+Teste de conflito
